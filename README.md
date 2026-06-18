@@ -56,15 +56,15 @@ This mirrors how a real analytics engagement is run — code for cleaning and re
 KPI cards (Gross Revenue, Net Revenue, Discount, Units Sold), monthly revenue trend, revenue by year/quarter, discount distribution.
 
 ### Page 2 — Category & Product Analysis
-![Category Analysis](./visuals/page2_category_analysis.png)
+<img width="717" height="406" alt="image" src="https://github.com/user-attachments/assets/b283f569-eed4-4d42-aa81-d1597e43292f" />
 Revenue and units sold by category, discount impact by category, gross vs net revenue comparison.
 
 ### Page 3 — Regional Performance
-![Regional Performance](./visuals/page3_regional_performance.png)
+<img width="719" height="406" alt="image" src="https://github.com/user-attachments/assets/d2604135-cd8e-4a71-9446-61b34c32ffd0" />
 Revenue and units by region, region-category breakdown, store performance.
 
 ### Page 4 — Seasonal & External Factors
-![Seasonal Factors](./visuals/page4_seasonal_factors.png)
+<img width="719" height="404" alt="image" src="https://github.com/user-attachments/assets/2d1670a7-f5ed-400f-aa40-960dc86cc5e6" />
 Revenue by season, weather impact, holiday/promotion effectiveness.
 
 ---
@@ -76,6 +76,6 @@ Revenue by season, weather impact, holiday/promotion effectiveness.
 - **Holiday/Promotion days generated less revenue than normal days** — the most critical finding, suggesting the current promotional strategy isn't working
 - Winter is the strongest season; Sunny weather correlates with peak sales
 
-📄 Full findings and actionable recommendations: [business_insights.md](./business_insights.md)
+📄 Full findings and actionable recommendations: [business_insights.md]
 
 ---
